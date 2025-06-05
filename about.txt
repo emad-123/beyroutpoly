@@ -1,1 +1,22 @@
-this is a documentation about beyroutpoly
+# Beirut Poly 🎲🇱🇧
+
+**Beirut Poly** is a city-themed board game inspired by the classic Monopoly
+## 🌆 Game Concept
+Players buy, trade, and develop properties based on famous **Beirut districts**, such as **Hamra**
+
+## 🧩 Features
+- **Custom properties** named after well-known Beirut streets, areas, and institutions.
+- **Chance & Community Chest** replaced with cards that reflect real-life Beirut events—blackouts
+- **Liras instead of dollars**, bringing a local economic twist.
+- **Local tax and fee references**, such as "Generator Bill" or "Parking Ticket from Beirut Souks".
+
+## 🎯 Objective
+Just like in classic Monopoly, the goal is to **bankrupt your opponents** 
+
+## 👥 Ideal for
+- Families looking to enjoy Lebanese culture
+- Expats missing home
+- Tourists looking for a fun souvenir
+- Anyone who loves strategy board games with a twist
+
+*Experience Beirut like never before—buy it, build it, and dominate it... if you can survive the traffic!*
